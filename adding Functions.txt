@@ -1,0 +1,16 @@
+About MYSQL information:
+
+host : pi.cs.oswego.edu
+userID : centroWriter
+password : centroWriter
+
+We are using Centro database.
+
+Inside Centro database, user table is our log-in data.
+
+I want 2 functions.
+
+1. After log in and user can add favorite routes. 
+   After that if they want to save or delete the Route from (Route or Schedule or vehicles table).
+2. Make link and bring data about vehicles in Centro database with two calendar pop up.
+   If I choose 11/24/2019 ~ 11/25/2019 bring 20(maximum) the vehicle information.
